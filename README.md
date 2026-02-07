@@ -1,6 +1,6 @@
 # INTRODUCTION
 THis project is a vault program written with anchor
 
-## TEST FILES
+## TESTS
 
 ![alt text](image.png)
